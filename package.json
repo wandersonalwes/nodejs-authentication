@@ -1,0 +1,35 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "rollback": "sequelize db:migrate:undo",
+        "rollback-all": "sequelize db:migrate:undo:all",
+        "migrate": "sequelize db:migrate",
+        "dev": "nodemon src/server.js",
+        "build": "sucrase ./src -d ./dist --transforms imports",
+        "start": "node dist/server.js"
+    },
+    "dependencies": {
+        "bcrypt": "^5.0.0",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1",
+        "pg": "^8.2.1",
+        "pg-hstore": "^2.3.3",
+        "sequelize": "^5.21.13",
+        "yup": "^0.29.1"
+    },
+    "devDependencies": {
+        "dotenv": "^8.2.0",
+        "eslint": "^7.3.0",
+        "eslint-config-airbnb-base": "^14.2.0",
+        "eslint-config-prettier": "^6.11.0",
+        "eslint-plugin-import": "^2.21.2",
+        "eslint-plugin-prettier": "^3.1.4",
+        "nodemon": "^2.0.4",
+        "prettier": "^2.0.5",
+        "sequelize-cli": "^5.5.1",
+        "sucrase": "^3.15.0"
+    }
+}
