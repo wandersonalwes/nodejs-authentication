@@ -8,7 +8,7 @@ Authentication API built with NodeJS.
 [![Forks](https://img.shields.io/github/forks/wandersonalwes/nodejs-authentication-api?color=%23D54F44&style=flat-square)](https://github.com/wandersonalwes/nodejs-authentication-api/network/members)
 [![Contributors](https://img.shields.io/github/contributors/wandersonalwes/nodejs-authentication-api?color=D54F44&style=flat-square)](https://github.com/wandersonalwes/nodejs-authentication-api/graphs/contributors)
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Auth%20API%20REST&uri=https%3A%2F%2Fgist.githubusercontent.com%2Fwandersonalwes%2Fa2f04dc6002e0065fc80d9ea52b4dbc1%2Fraw%2Fff5b23c0cbe0a588fb3fcd3f12d0473381e07e45%2Fgistfile1.txt)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Auth%20API&uri=https%3A%2F%2Fgist.githubusercontent.com%2Fwandersonalwes%2Fa2f04dc6002e0065fc80d9ea52b4dbc1%2Fraw%2Fb473fd9b505360b2043644c794ab3d5d67e8a383%2FAuth%252520API%252520REST%252520Insomnia)
 
 # :pushpin: Table of Contents
 
