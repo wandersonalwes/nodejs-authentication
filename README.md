@@ -30,7 +30,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 **Install dependencies**
 
-`yarn install`
+`yarn`
 
 Create your enviroment variables based on the examples of `.env.example`
 
